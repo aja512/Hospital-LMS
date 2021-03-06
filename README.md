@@ -11,3 +11,6 @@ This was ap mini-project created using Web Technologies like HTML, CSS, Bootstra
 * **Doctors:** consists of information of various doctors
 * **Pages:** consists of information of the hospital and various activities that were conducted which were recorded as a memory lane.
 * **Contact us:** consist of feedback form and location address with partners of the hospital.
+--------
+## Workflow:
+![Workflow Diagram](https://github.com/aja512/Hospital-LMS/blob/master/Screenshot%202021-03-06%20at%208.08.51%20PM.png)
