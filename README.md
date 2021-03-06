@@ -1,7 +1,7 @@
 # Hospital-LMS
 
-
 This was ap mini-project created using Web Technologies like HTML, CSS, Bootstrap, PHP, JQuery, JavaScript, AJAX.
+
 **Database:** MySQL
 
 * The website consists of the following pages which can be navigated through the nav bar.
