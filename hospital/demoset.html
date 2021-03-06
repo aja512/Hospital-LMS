@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Open Validation</title>
+    <link rel="icon" href="assets/images/red_cross.jpg">	
+</head>
+<body>
+	<h2>Inform Patients Regarding the Hospitals Policy</h2>
+	<p id="demo">Please read the terms and conditions before loading the content and signing our declaration.</p>
+	<button type="button" onclick="loadDocument()">OPEN FILE</button>
+	<script type="text/javascript">
+		function loadDocument()
+		{
+			var load=new XMLHttpRequest();
+			load.onreadystatechange=function()
+			{
+				if (this.readyState==4 && this.status==200)
+				{
+					document.getElementById("demo").innerHTML=this.responseText;
+				}
+			};
+			load.open("GET","assets/images/test.txt",true);
+			load.send();
+		}
+	</script>
+</body>
+</html>

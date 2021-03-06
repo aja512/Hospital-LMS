@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<?xml-stylesheet type="text/xsl" href="departments.xslt"?>
+<departments>
+	<doctor>
+		<name>Dr. Shahrukh Aspi Golwalla</name>
+		<years>75 years</years>
+		<patients>100K+</patients>
+		<ward>Pulmonologist</ward>
+	</doctor>
+	<doctor>
+		<name>Dr.Priya Karnik</name>
+		<years>27 years</years>
+		<patients>10000</patients>
+		<ward>Physician</ward>		
+	</doctor>
+	<doctor>
+		<name>Dr. Rashid Merchant</name>
+		<years>55 years</years>
+		<patients>100K+</patients>
+		<ward>Cardiologist</ward>
+	</doctor>
+	<doctor>
+		<name>Dr. Maria Staphney Almeida</name>
+		<years>40 years</years>
+		<patients>100K+</patients>
+		<ward>Neurologist</ward>
+	</doctor>
+	
+</departments>
