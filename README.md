@@ -1,4 +1,4 @@
-# Hospital-LMS
+# Hospital-LMS 🏥 🩹 ⚕️
 
 This was ap mini-project created using Web Technologies like HTML, CSS, Bootstrap, PHP, JQuery, JavaScript, AJAX.
 
